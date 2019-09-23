@@ -13,4 +13,4 @@ Todas as quintas-feiras, um bate papo animado e descontraído sobre tecnologia.
 
 Confira nosso arquivo:
 <h1>#ArquivoPapodeQuinta</h1>
-<h2><a href="http://bit.ly/2suo9RT" target="_blank" rel="noopener">#PapodeQuinta-#01 - 08/06/2016 - Veeam Software</a></h2>
+<h2><a href="http://bit.ly/2suo9RT" target="_blank" rel="noopener noreferrer">#PapodeQuinta-#01 - 08/06/2016 - Veeam Software</a></h2>

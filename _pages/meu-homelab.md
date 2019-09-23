@@ -46,7 +46,7 @@ Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
 
 <strong>Switch Cisco SG500X-24 24-Port Gigabit</strong>
 
-Esse é um switch Cisco da linha Small Business, que atende perfeitamente o meu Lab para tudo o que eu quiser fazer. <a href="https://www.cisco.com/c/en/us/support/switches/sg500x-24-24-port-gigabit-4-port-10-gigabit-stackable-managed-switch/model.html" target="_blank" rel="noopener">Link para o datasheet</a>
+Esse é um switch Cisco da linha Small Business, que atende perfeitamente o meu Lab para tudo o que eu quiser fazer. <a href="https://www.cisco.com/c/en/us/support/switches/sg500x-24-24-port-gigabit-4-port-10-gigabit-stackable-managed-switch/model.html" target="_blank" rel="noopener noreferrer">Link para o datasheet</a>
 
 <img class="alignright wp-image-4338 size-full" src="http://homelaber.com.br/site/wp-content/uploads/2018/01/equipamentos-homelab-homelaber-02.jpg" alt="" width="1920" height="1080" />
 <h2>Arquitetura do Lab</h2>
@@ -54,7 +54,7 @@ Não vou postar aqui uma arquitetura do lab, pois ela está sempre mudando, mas 
 <h2>Software</h2>
 A base do meu lab é o VMware ESXi. Em cima dele consigo rodar praticamente qualquer workload que eu desejar, até mesmo outros hypervisors utilizando Nested Virtualization.
 
-Tenho acesso a todo o portfólio de produtos VMware através do programa <a href="http://homelaber.com.br/category/vexpert/" target="_blank" rel="noopener">VMware vExpert</a> e também do <a href="http://homelaber.com.br/como-obter-licencas-full-dos-produtos-vmware/" target="_blank" rel="noopener">VMUG Advantange</a>. Então #ficaadica
+Tenho acesso a todo o portfólio de produtos VMware através do programa <a href="http://homelaber.com.br/category/vexpert/" target="_blank" rel="noopener noreferrer">VMware vExpert</a> e também do <a href="http://homelaber.com.br/como-obter-licencas-full-dos-produtos-vmware/" target="_blank" rel="noopener noreferrer">VMUG Advantange</a>. Então #ficaadica
 
 Felizmente, por causa do vExpert, acabo tendo acesso a licenças NFR (Not For Resale) de vários outros fabricantes, como Veeam, Vembu, Zerto, Nutanix, etc.
 
@@ -64,11 +64,11 @@ Os software que não tenho acesso NFR - no caso de produtos Microsoft - acabo ut
 <h2 style="text-align: left;">Lab dos Sonhos</h2>
 SE eu tivesse grana para investir em um lab dos sonhos, HOJE ele seria assim:
 <ul style="list-style-type: square;">
- 	<li>3 Hosts <a href="https://www.supermicro.com/products/system/Mini-ITX/SYS-E300-8D.cfm" target="_blank" rel="noopener">SuperMicro SYS-E300-8D</a> com 128GB de RAM com 1X SSD 1TB + 1 SSD 512 GB em cada (All Flash baby!!)</li>
- 	<li>1 Intel <a href="https://www.intel.com/content/www/us/en/nuc/nuc-kit-nuc6i7kyk-brief.html" target="_blank" rel="noopener">NUC SKULL (NUC6i7KYK)</a> com 32Gb e SSD 512GB</li>
- 	<li>1 Switch 10GB <a href="https://www.netgear.com/business/products/switches/smart/XS708T.aspx" target="_blank" rel="noopener">Netgear XS708T-100NES</a> (8 portas 10GB)</li>
+ 	<li>3 Hosts <a href="https://www.supermicro.com/products/system/Mini-ITX/SYS-E300-8D.cfm" target="_blank" rel="noopener noreferrer">SuperMicro SYS-E300-8D</a> com 128GB de RAM com 1X SSD 1TB + 1 SSD 512 GB em cada (All Flash baby!!)</li>
+ 	<li>1 Intel <a href="https://www.intel.com/content/www/us/en/nuc/nuc-kit-nuc6i7kyk-brief.html" target="_blank" rel="noopener noreferrer">NUC SKULL (NUC6i7KYK)</a> com 32Gb e SSD 512GB</li>
+ 	<li>1 Switch 10GB <a href="https://www.netgear.com/business/products/switches/smart/XS708T.aspx" target="_blank" rel="noopener noreferrer">Netgear XS708T-100NES</a> (8 portas 10GB)</li>
  	<li>1 Switch Cisco L3 24 portas (um 2960 já estaria de bom tamanho ou um ainda menor)</li>
- 	<li>1 NAS <a href="https://www.synology.com/en-us/products/DS1517+" target="_blank" rel="noopener">Synology DS1517</a>+ com interface 10GB</li>
+ 	<li>1 NAS <a href="https://www.synology.com/en-us/products/DS1517+" target="_blank" rel="noopener noreferrer">Synology DS1517</a>+ com interface 10GB</li>
 </ul>
 Tudo isso dentro de um Rack pequenininho para caber embaixo da minha mesa :)
 

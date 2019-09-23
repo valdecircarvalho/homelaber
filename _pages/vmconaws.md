@@ -10,11 +10,11 @@ post_date: 2018-12-11 13:25:58
 ---
 Links:
 
-<a href="https://cloud.vmware.com/" target="_blank" rel="noopener">https://cloud.vmware.com/</a>
+<a href="https://cloud.vmware.com/" target="_blank" rel="noopener noreferrer">https://cloud.vmware.com/</a>
 
-<a href="https://aws.amazon.com/pt/vmware/" target="_blank" rel="noopener">https://aws.amazon.com/pt/vmware/</a>
+<a href="https://aws.amazon.com/pt/vmware/" target="_blank" rel="noopener noreferrer">https://aws.amazon.com/pt/vmware/</a>
 
-<a href="https://communities.vmware.com/community/vmtn/vmc-on-aws/" target="_blank" rel="noopener">https://communities.vmware.com/community/vmtn/vmc-on-aws/</a>
+<a href="https://communities.vmware.com/community/vmtn/vmc-on-aws/" target="_blank" rel="noopener noreferrer">https://communities.vmware.com/community/vmtn/vmc-on-aws/</a>
 
 Playlist:
 

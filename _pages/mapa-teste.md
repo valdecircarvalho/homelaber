@@ -24,7 +24,7 @@ post_date: 2018-09-14 16:02:30
 
     
     var locations = [
-      ['<html> São Paulo, Brasil - Valdecir Carvalho - <a href="https://twitter.com/homelaber" target="_blank">@homelaber</a> - vcarvalho@vmware.com </html>', -23.55052, -46.633309, 3],
+      ['<html> São Paulo, Brasil - Valdecir Carvalho - <a href="https://twitter.com/homelaber" target="_blank" rel="noopener noreferrer">@homelaber</a> - vcarvalho@vmware.com </html>', -23.55052, -46.633309, 3],
       ['Buenos Aires, Argentina', -34.603684, -58.381559, 2],
       ['Assunção, Paraguai', -25.26374, -57.575926, 1]
     ];

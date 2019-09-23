@@ -17,7 +17,7 @@ Volte frequentemente aqui, pois essa página será atualizada constantemente. Se
 
 <img class="aligncenter size-large wp-image-4936" src="http://homelaber.com.br/site/wp-content/uploads/2018/04/vSphere-6.7-pillars-768x434-644x364.jpeg" alt="" width="644" height="364" />
 <h2>Posts do Homelaber Brasil:</h2>
-<a href="http://homelaber.com.br/nova-versao-do-vmware-vsphere-6-7/" target="_blank" rel="noopener">http://homelaber.com.br/nova-versao-do-vmware-vsphere-6-7/</a>
+<a href="http://homelaber.com.br/nova-versao-do-vmware-vsphere-6-7/" target="_blank" rel="noopener noreferrer">http://homelaber.com.br/nova-versao-do-vmware-vsphere-6-7/</a>
 <h2>Posts em Português:</h2>
 <h2>Posts em Inglês:</h2>
 <h2>Links para Download VMware vSphere 6.7</h2>
@@ -28,12 +28,12 @@ Volte frequentemente aqui, pois essa página será atualizada constantemente. Se
 <a href="https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/products/vsphere/vmware-vsphere-67-datasheet.pdf">vSphere 6.7 Datasheet</a> (VMware)
 <h2>Links para VMware HCL - Hardware Compatibility List vSphere 6.7</h2>
 <h2>Videos sobre VMware vSphere 6.7</h2>
-<span class="notranslate"><a href="https://www.youtube.com/watch?v=T3OZiuAJnmE" target="_blank" rel="noopener">Inicialização rápida do VMware vSphere 6.7</a> </span>
-<a href="https://www.youtube.com/watch?v=8fqE5zsnkTQ" target="_blank" rel="noopener"><span class="notranslate">Upgrades de host mais rápidos para o vSphere 6.7 </span></a>
-<a href="https://www.youtube.com/watch?v=JfPvhZ4ii28" target="_blank" rel="noopener"><span class="notranslate">VMware vSphere 6.7 VM Encryption </span></a>
-<a href="https://www.youtube.com/watch?v=PwVReRauY50" target="_blank" rel="noopener"><span class="notranslate">VMware vSphere 6.7 Otimizando o uso da GPU </span></a>
-<a href="https://www.youtube.com/watch?v=Bfdwpr15A_s" target="_blank" rel="noopener"><span class="notranslate">VMware vSphere 6.7 TPM 2 0 </span></a>
+<span class="notranslate"><a href="https://www.youtube.com/watch?v=T3OZiuAJnmE" target="_blank" rel="noopener noreferrer">Inicialização rápida do VMware vSphere 6.7</a> </span>
+<a href="https://www.youtube.com/watch?v=8fqE5zsnkTQ" target="_blank" rel="noopener noreferrer"><span class="notranslate">Upgrades de host mais rápidos para o vSphere 6.7 </span></a>
+<a href="https://www.youtube.com/watch?v=JfPvhZ4ii28" target="_blank" rel="noopener noreferrer"><span class="notranslate">VMware vSphere 6.7 VM Encryption </span></a>
+<a href="https://www.youtube.com/watch?v=PwVReRauY50" target="_blank" rel="noopener noreferrer"><span class="notranslate">VMware vSphere 6.7 Otimizando o uso da GPU </span></a>
+<a href="https://www.youtube.com/watch?v=Bfdwpr15A_s" target="_blank" rel="noopener noreferrer"><span class="notranslate">VMware vSphere 6.7 TPM 2 0 </span></a>
 
-Playlist <a href="https://www.youtube.com/watch?v=T3OZiuAJnmE&amp;list=PLNolXBQS42ixDXWTX3oHph4mZbFptSSPv" target="_blank" rel="noopener">Homelaber TV</a>
+Playlist <a href="https://www.youtube.com/watch?v=T3OZiuAJnmE&amp;list=PLNolXBQS42ixDXWTX3oHph4mZbFptSSPv" target="_blank" rel="noopener noreferrer">Homelaber TV</a>
 
 https://www.youtube.com/watch?v=T3OZiuAJnmE&amp;list=PLNolXBQS42ixDXWTX3oHph4mZbFptSSPv
