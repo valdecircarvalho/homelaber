@@ -10,6 +10,8 @@ post_date: 2019-11-08 08:45:57
 ---
 Olá Homelabers!
 
+<em>Update: Corrigi o link do post, agora está direcionado para o site do Brasil da Microsoft, assim o download do livro será em Português. Se você quiser fazer o download do livro em Inglês, use esse <a href="https://azure.microsoft.com/en-us/resources/learn-azure-in-a-month-of-lunches/" target="_blank" rel="noopener noreferrer">link</a></em>
+
 Olha ai <a href="http://homelaber.com.br/livro-kubernetes-gratis-kubernetes-up-and-running-second-edition/">mais um livro grátis para vocês</a> e desta vez sobre Microsoft Azure.
 
 A Microsoft está oferecendo em seu site o livro <strong>Learn Azure in a Month of Lunches</strong> - Aprenda Azure em um mês estudando durante o seu horário de almoço - para download totalmente gratis.
