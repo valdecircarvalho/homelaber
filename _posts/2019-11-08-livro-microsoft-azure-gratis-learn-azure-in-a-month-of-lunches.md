@@ -10,7 +10,7 @@ post_date: 2019-11-08 08:45:57
 ---
 Olá Homelabers!
 
-Olha ai mais um livro grátis para vocês e desta vez sobre Microsoft Azure.
+Olha ai <a href="http://homelaber.com.br/livro-kubernetes-gratis-kubernetes-up-and-running-second-edition/">mais um livro grátis para vocês</a> e desta vez sobre Microsoft Azure.
 
 A Microsoft está oferecendo em seu site o livro <strong>Learn Azure in a Month of Lunches</strong> - Aprenda Azure em um mês estudando durante o seu horário de almoço - para download totalmente gratis.
 
