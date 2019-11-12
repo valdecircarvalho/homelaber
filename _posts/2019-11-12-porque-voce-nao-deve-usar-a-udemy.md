@@ -68,7 +68,7 @@ Qualquer pessoa, pode se cadastrar como instrutor e postar um conteúdo. Isso ac
 
 Muitas pessoas, sem qualificação, sem conhecimento profundo, sem didática alguma, acabam oferecendo cursos na plataforma e quem acaba perdendo é aquela pessoa que busca conhecimento e acaba sendo enganado.
 <h4>03. Descontos enormes.</h4>
-A grande maioria dos cursos oferecidos na plataforma da Udemy, apresentam grandes descontos. Isso pela visão do aluno, pode ser uma coisa bacana, mas pelo lado de quem produz o conteúdo no final do dia acaba demotivando a criação de um conteúdo realmente sério, bem produzido e de qualidade.
+A grande maioria dos cursos oferecidos na plataforma da Udemy, apresentam grandes descontos. Isso pela visão do aluno, pode ser uma coisa bacana, mas pelo lado de quem produz o conteúdo no final do dia acaba desmotivando a criação de um conteúdo realmente sério, bem produzido e de qualidade.
 
 Faça essa pergunta a você mesmo: Porque um carro que em teoria vale 100.000 reais estaria sendo vendido por 29.000 ? Tem alguma coisa errada ai não? O mesmo vale para os cursos da Udemy. Um curso que no site custa 199,00 quase sempre será oferecido por 9,90. Isso acaba sendo totalmente inviável.
 
