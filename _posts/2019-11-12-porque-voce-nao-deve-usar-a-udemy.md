@@ -24,7 +24,7 @@ Existem diversas categorias - não somente TI - de cursos no site, como finança
 
 O maior apelo da Udemy são os cursos grátis ou com um valor bastante baixo - o que acaba atraindo muitos alunos, sempre atrás daquele precinho baratinho. Mas o barato pode - e quase sempre sai - sair caro e eu vou te mostrar porque!
 
-O título desse post era para ser <em>Porque eu odeio a Udemy!</em>, mas decedi mudar porque eu sempre digo aos meus filhos que odiar uma coisa não é um bom sentimento :smile:
+O título desse post era para ser <em>Porque eu odeio a Udemy!</em>, mas decidi mudar porque eu sempre digo aos meus filhos que odiar uma coisa não é um bom sentimento :smile:
 
 Então resolvi escrever sem sentimentos pessoais e mostrar minhas opiniões e o resultado da minha pesquisa. A ideia é evitar que você caia nas armadilhas e truques dessa empresa e no final ainda vai economizar uma graninha!
 
