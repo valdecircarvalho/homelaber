@@ -23,7 +23,10 @@ Agora fiquem com os links!
 https://www.youtube.com/watch?v=7-31KgImGgU
 
 https://www.youtube.com/watch?v=OdzaTbaQwTg
-<h2></h2>
+<h2>Lista de Slides Decks</h2>
+Faça o download de todos os slide decks do evento.
+
+<a href="https://aws.amazon.com/pt/events/events-content/?aws.filter-series=*all&amp;awsm.page-cards=" target="_blank" rel="noopener noreferrer">https://aws.amazon.com/pt/events/events-content/?aws.filter-series=*all&amp;awsm.page-cards=</a>1
 <h2>Recap da Cloud8</h2>
 <a href="https://www.cloud8.com.br/" target="_blank" rel="noopener noreferrer">Blog da Cloud8</a> escrito pelo Renato Weiner (@reweiner) - simplesmente <strong>O MELHOR resumo do que aconteceu no AWS re:Invent escrito em Português!</strong> OBRIGATÓRIO!
 
