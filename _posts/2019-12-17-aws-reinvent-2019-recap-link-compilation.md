@@ -10,6 +10,10 @@ post_date: 2019-12-17 07:00:44
 ---
 Olá Homelabers!
 
+Update: Adicionei o link para os slides.
+
+For my English readers, here is a link in your language. Feel free to add more links &gt;&gt; <a href="https://github.com/valdecircarvalho/aws-reinvent2019" target="_blank" rel="noopener noreferrer">https://github.com/valdecircarvalho/aws-reinvent2019</a>
+
 Post rapidinho para compartilhar com vocês um compilado de links e informações sobre o grande evento da AWS - <strong>re:Invent</strong> que aconteceu entre os dias 02 e 06 de dezembro em Las Vegas.
 
 Compilei neste post uma lista de links para os anúncios, videos, resumos, análises e coberturas sobre o evento.
