@@ -14,7 +14,7 @@ Como foi o seu ano de 2019?
 
 Estamos chegando ao fim de mais um ano e esse post é para agradecer a você caro leitor e fazer uma retrospectiva do ano de 2019 aqui no Blog Homelaber.
 <h2>Recorde de Acessos</h2>
-Em 2019, quebramos o recorde de acessos ao site, ultrapassando a marca de 100.000 acessos e 53.000 visitantes. Esse é um número que me deixa muito feliz, pois quando esse blog nasceu lá em 2016 eu realmente não tinha tantas pretenções assim.
+Em 2019, quebramos o recorde de acessos ao site, ultrapassando a marca de 100.000 acessos e 53.000 visitantes. Esse é um número que me deixa muito feliz, pois quando esse blog nasceu lá em 2016 eu realmente não tinha tantas pretensões assim.
 <table>
 <thead>
 <tr>
@@ -122,7 +122,7 @@ Os post que eu mais gostei de escrever são esses:
  	<li><a href="http://homelaber.com.br/como-fazer-inventario-e-documentacao-de-ambientes-vmware-vsphere/">Como fazer inventário e documentação de ambientes VMware vSphere</a></li>
 </ul>
 <h1>Comunidade</h1>
-Esse ano eu consegui participar de muitos eventos da comunidade. Participei do renacimento do VMUG SP que está sendo magistralmente tocado pelos amigos Wesley e Feioso (Rodrigo). Participei muito também do AWS User Group São Paulo, palestrei no VMUG Brasília, VMUG Rio Grande do Sul, no MVP Conf LATAM e fui em muitos outros meetups.
+Esse ano eu consegui participar de muitos eventos da comunidade. Participei do renascimento do VMUG SP que está sendo magistralmente tocado pelos amigos Wesley e Feioso (Rodrigo). Participei muito também do AWS User Group São Paulo, palestrei no VMUG Brasília, VMUG Rio Grande do Sul, no MVP Conf LATAM e fui em muitos outros meetups.
 
 Também consegui dar o pontapé inicial no Veeam User Group Brasil. Já estamos oficialmente estabelecidos e agora em 2020 começaremos a fazer os primeiros encontros.
 
@@ -130,11 +130,11 @@ Renovei o Veeam Vanguard pelo segundo ano seguido e também o VMware vExpert. Me
 
 Um ponto negativo foi o vBrownBag Brasil. Acabamos por dar uma congelada no projeto por falta de tempo de todos os integrantes, mas a meta para 2020 é voltar com tudo.
 <h1>Viagens</h1>
-2019 foi um ano mais calmo de viajens. Fui ao exterior apenas 2 vezes, todas para participar de eventos da Veeeam. Esse ano não consegui ir ao VMworld e ao AWS re:Invent (que é um dos eventos que eu mais quero participar atualmente!). Mas já estou me programando para 2020 conseguir participar de ao menos 2 grandes eventos la fora.
+2019 foi um ano mais calmo de viagens. Fui ao exterior apenas 2 vezes, todas para participar de eventos da Veeam. Esse ano não consegui ir ao VMworld e ao AWS re:Invent (que é um dos eventos que eu mais quero participar atualmente!). Mas já estou me programando para 2020 conseguir participar de ao menos 2 grandes eventos la fora.
 <h1>No geral...</h1>
 2019 foi um ano bastante bom! Nem tudo aconteceu como planejado, um tropeço aqui e outro ali, mas no final das contas foi um ano bom!
 <h1>O que esperar em 2020?</h1>
-Vou publicar um post sobre minhas metas públicas para 2020, mas em resumo eu quero mudar algumas coisas, principalmente aqui no Blog. Quero focar mais e me forçar para escrever mais. Escrever é um habito tal como fazer exercícios. Depois que você pega o ritmo e cria uma rotina, fica fácil de escrever.
+Vou publicar um post sobre minhas metas públicas para 2020, mas em resumo eu quero mudar algumas coisas, principalmente aqui no Blog. Quero focar mais e me forçar para escrever mais. Escrever é um hábito tal como fazer exercícios. Depois que você pega o ritmo e cria uma rotina, fica fácil de escrever.
 
 Quero também desenvolver outras habilidades, aprender uma linguagem de programação, cair de cabeça em Kubernetes, fazer mais palestras, participar de outras comunidades (oi Devs, estou falando com vocês!!!) e sair da minha bolha.
 
